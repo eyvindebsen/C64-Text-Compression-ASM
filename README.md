@@ -3,7 +3,7 @@ ASM Text decompressor using all memory
 
 This is the assembler version of the original bible read basic program.
 
-Entire vobulary in memory for super quick access.
+Entire vocabulary in memory for super quick access.
 Only speed limit is the kernal PRINT, and kernal IO disk operations.
 
 This contains the first book of Moses, Genesis.
