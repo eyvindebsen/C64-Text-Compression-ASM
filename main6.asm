@@ -1174,5 +1174,3 @@ colortab   byte 1,7,13,3,15,5,10,12,14,4,8,2,11,6,9,0,9,6,11,2,8,4,14,12,10,5,15
 ;00006  F97A             INCBIN     "B15.SEQ"
 ;00007  FA53             INCBIN     "B16.SEQ"
 ;00008  FAA4 
-
-;https://codebase64.org/doku.php?id=base:reading_a_file_byte-by-byte
