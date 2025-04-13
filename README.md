@@ -27,3 +27,8 @@ Here are the controls
 6 : Change foreground color
 7 : Future option, search?
 8 : close the book and quit
+
+Main disk is "asmbiblereadv6.d64"
+The "updatedwords.d64" disk contains the raw text files.
+You can use the basic program "wordcrunch.bas" to convert it to 5bit-streams.
+This is already done in the bXX.seq files.
