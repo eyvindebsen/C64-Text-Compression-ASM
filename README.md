@@ -1,4 +1,4 @@
-# C64-Text-Compression-ASM
+# C64-Text-Decompression-ASM
 ASM Text decompressor using all memory
 
 This is the assembler version of the original bible read basic program.
